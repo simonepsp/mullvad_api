@@ -1,4 +1,4 @@
-# mullvad_api
+# Mullvad API
 A fully-fledged Mullvad API for Python.
 
 This is a 2-hours project so expect bugs, random code and *ghosts* waking you up at night [^1].
