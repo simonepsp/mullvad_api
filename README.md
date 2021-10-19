@@ -56,10 +56,10 @@ print('There are %d countries listed on MullVad' % len(relays['countries']))
 mullvad.revoke_pubkey(PUBLIC_KEY)
 ```
 
-# Also, you can do this with a one-liner
+# Also, you can do that with a one-liner
 ```res = mullvad.generate_conf(hostname='us58-wireguard')```
 
-# Or providing a private key 
+# Or by providing a private key 
 ```
 res = mullvad.generate_conf(hostname='us58-wireguard', private_key = private_key)
 print(res['config'])
