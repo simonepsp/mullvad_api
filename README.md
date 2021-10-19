@@ -1,5 +1,5 @@
 # Mullvad API
-A fully-fledged Mullvad API for Python.
+A fully-fledged Mullvad wrapper for Python.
 
 This is a 2-hours project so expect bugs, random code and *ghosts* waking you up at night [^1].
 
